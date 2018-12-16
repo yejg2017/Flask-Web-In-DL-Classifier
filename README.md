@@ -23,4 +23,4 @@ if __name__=="__main__":
     app.run(host="10.100.110.101",port=9527,debug=True) #debug=True 保证代码能正常运行
 ```
 
-(https://github.com/yejg2017/Flask-Web-In-DL-Classifier/tree/master/templates/detail.html)
+(https://github.com/yejg2017/Flask-Web-In-DL-Classifier/tree/master/templates/details.html)
