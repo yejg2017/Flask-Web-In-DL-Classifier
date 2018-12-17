@@ -23,4 +23,19 @@ if __name__=="__main__":
     app.run(host="10.100.110.101",port=9527,debug=True) #debug=True 保证代码能正常运行
 ```
 
-(https://github.com/yejg2017/Flask-Web-In-DL-Classifier/tree/master/templates/details.html)
+* html 模板文件
+
+[index.html](https://github.com/yejg2017/Flask-Web-In-DL-Classifier/tree/master/templates/index.html)
+
+[detials.html](https://github.com/yejg2017/Flask-Web-In-DL-Classifier/tree/master/templates/details.html)
+
+
+* 图片展示
+```html
+     <div class="col-md-6">
+            <h3>Image Prediction label</h3>
+            <p>{{ prediction }} </p>
+	    <body> <img src="{{url_for('static',filename=image_file)}}" width="720" height="480"></body>
+
+          </div>
+```
