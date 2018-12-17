@@ -1,6 +1,8 @@
 # Flask-Web-In-DL-Classifier
 
 ### Flask框架在深度学习的简单应用(真的简单，纯粹扯淡)
+* pretrained-model
+训练好的模型先放在**checkpoint**文件夹里
 
 * 执行以下代码即可
 ```python 
