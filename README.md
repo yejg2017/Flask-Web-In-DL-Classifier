@@ -27,11 +27,11 @@ if __name__=="__main__":
 
 [index.html](https://github.com/yejg2017/Flask-Web-In-DL-Classifier/tree/master/templates/index.html)
 
-![上传图片](https://github.com/yejg2017/Flask-Web-In-DL-Classifier/index.png)
+![上传图片](./index.png)
 
 [detials.html](https://github.com/yejg2017/Flask-Web-In-DL-Classifier/tree/master/templates/details.html)
 
-![展示](https://github.com/yejg2017/Flask-Web-In-DL-Classifier/details.png)
+![展示](./details.png)
 
 * 图片展示
 ```html
