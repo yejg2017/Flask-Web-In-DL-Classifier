@@ -17,3 +17,6 @@ python demo.py
 ```python
 python  train-pre-app.py
 ```
+
+## In [Semi-Automated](./Semi-Automated/Completed-Semi-Automated)
+* Tha Process is smiliar with **Youtube-Spam-Detector**
